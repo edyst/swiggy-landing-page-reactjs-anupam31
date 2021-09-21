@@ -5,10 +5,10 @@
   width: 80%;
   margin: auto;
 }
-.a1:hover{
+.l1:hover{
   color: #686b78;
 }
-.a1{
+.l1{
 text-decoration: none;
 font-weight: 600;
 font-size: 16px;
@@ -17,10 +17,10 @@ color: #686b78;
 line-height: 1.5;
 letter-spacing: -.3px;
 }
-.a2:hover{
+.l2:hover{
 color:#93959f;
 }
-.a2
+.l2
 {
   color:#93959f;
   line-height: 1.5;
