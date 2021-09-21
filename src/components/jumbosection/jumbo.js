@@ -62,16 +62,16 @@ const Jumbo =()=>
             <div className="cities width">
               <p id="flipper_heading">POPULAR CITIES IN INDIA</p>
               <ul className="city-names">
-                <li><a href="https://web.archive.org/web/20210903174711/https:/www.swiggy.com/ahmedabad" className="a1">Ahemdabad</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/bangalore"className="a2">Bangalore</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/chennai" className="a1">Chennai</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/delhi" className="a2">Delhi</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/gurgaon" className="a1">Gurgaon</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/hyderabad" className="a2">Hyderabad</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/kolkata" className="a1">Kolkata</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/mumbai"  className="a2">Mumbai</a></li>
-                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/mumbai" className="a1">Pune</a></li>
-                <li><a href="https://web.archive.org/city-links" className="a2">& more</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https:/www.swiggy.com/ahmedabad" className="l1">Ahemdabad</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/bangalore"className="l2">Bangalore</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/chennai" className="l1">Chennai</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/delhi" className="l2">Delhi</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/gurgaon" className="l1">Gurgaon</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/hyderabad" className="l2">Hyderabad</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/kolkata" className="l1">Kolkata</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/mumbai"  className="l2">Mumbai</a></li>
+                <li><a href="https://web.archive.org/web/20210903174711/https://www.swiggy.com/mumbai" className="l1">Pune</a></li>
+                <li><a href="https://web.archive.org/city-links" className="l2">& more</a></li>
               </ul>
             </div>
           </div>
