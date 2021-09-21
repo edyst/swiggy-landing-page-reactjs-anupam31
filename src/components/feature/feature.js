@@ -4,7 +4,7 @@ import './feature.css'
 function Feature()
 {
   return(
-      <section class="options mt-5">
+      <section class="opts mt-5">
         <div className="container">
           <div className="row">
             <div className="col-sm-4">
