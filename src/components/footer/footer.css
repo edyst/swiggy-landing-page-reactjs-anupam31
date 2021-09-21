@@ -60,7 +60,7 @@ hr{
 {
   transform: scale(1.1);
 }
-.i1
+.img1
 {
   padding-top:25px;
   padding-bottom:25px;
@@ -75,25 +75,25 @@ hr{
   color:#fff;
   padding-top:25px;
 }
-.i2,.3,.i4,.i5
+.img2,.img3,.img4,.img5
 {
   margin-top:25px;
 }
-.i2{
+.img2{
   margin-right: 41px;
 }
-.i3{
+.img3{
 margin-right:39px;
 }
-.i4
+.img4
 {
   margin-right: 37px;
 }
-.i5
+.img5
 {
   margin-right: 35px;
 }
-.i2:hover,.i3:hover,.i4:hover,.i5:hover
+.img2:hover,.img3:hover,.img4:hover,.img5:hover
 {
 transform: scale(1.3);
 cursor: pointer;
