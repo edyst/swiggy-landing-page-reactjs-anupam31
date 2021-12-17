@@ -1,17 +1,22 @@
-import '../node_modules/bootstrap/dist/css/bootstrap.css'
+import React from 'react';
 import './App.css';
-import Features from './Features Section/Features';
-import Footer from './Footer Section/Footer';
-import JumboSection from './Jumbo Section/JumboSection';
-import Resturent from './Resturent in your pocket/Resturent'
+import '../node_modules/bootstrap/dist/css/bootstrap.css';
+import '../node_modules/font-awesome/css/font-awesome.min.css'; 
+import Footer from './Components/Footer/footer';
+import Order from './Components/Order/order';
+import Feature from './Components/Features/feature';
+import Header from './Components/Header/header';
+
+
 
 function App() {
+
   return (
     <div className="App">
-    <JumboSection />
-    <Features />
-    <Resturent />
-    <Footer />
+        <Header/>
+        <Feature/>
+        <Order/>
+        <Footer/>
     </div>
   );
 }
